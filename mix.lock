@@ -1,3 +1,5 @@
-%{"earmark": {:hex, :earmark, "1.0.2", "a0b0904d74ecc14da8bd2e6e0248e1a409a2bc91aade75fcf428125603de3853", [:mix], []},
-  "ex_doc": {:hex, :ex_doc, "0.14.2", "c89d60db464e8a0849a35dbcd6eed71f2b076c339d0b05b3bb5c90d6bab31e4f", [:mix], [{:earmark, "~> 1.0", [hex: :earmark, optional: false]}]},
-  "mogrify": {:hex, :mogrify, "0.5.4", "acb5568335069c5742df444559961b86c304d7969853e77d6561ca916910f75e", [:mix], []}}
+%{
+  "earmark": {:hex, :earmark, "1.0.2", "a0b0904d74ecc14da8bd2e6e0248e1a409a2bc91aade75fcf428125603de3853", [:mix], [], "hexpm", "e2d24ab54061603b8dd65bc3d361897ded61f33a4b57044564320a3ac00e8e72"},
+  "ex_doc": {:hex, :ex_doc, "0.14.2", "c89d60db464e8a0849a35dbcd6eed71f2b076c339d0b05b3bb5c90d6bab31e4f", [:mix], [{:earmark, "~> 1.0", [hex: :earmark, repo: "hexpm", optional: false]}], "hexpm", "1f8c8b0ebcf9fb72827a836fd866cfad3603f5c9176c8d1be11e39d2630454cb"},
+  "mogrify": {:hex, :mogrify, "0.8.0", "3506f3ca3f7b95a155f3b4ef803b5db176f5a0633723e3fe85e0d6399e3b11c8", [:mix], [], "hexpm", "2278d245f07056ea3b586e98801e933695147066fa4cf563f552c1b4f0ff8ad9"},
+}

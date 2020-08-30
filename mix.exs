@@ -18,7 +18,7 @@ defmodule MogrifyDraw.Mixfile do
 
   defp deps do
     [
-      {:mogrify, "~> 0.5.4"},
+      {:mogrify, "~> 0.8.0"},
       {:ex_doc, ">= 0.0.0", only: :dev},
     ]
   end
